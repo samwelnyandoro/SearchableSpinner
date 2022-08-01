@@ -10,6 +10,8 @@ Add this to your root build.gradle(Module:Project or Settings.Gradle)
 Add the dependency to your build.gradle(Module:App)
 
 	        implementation 'com.github.samwelnyandoro:SearchableSpinner:0.1.0'
+
+
           
 Usage on layout
 
